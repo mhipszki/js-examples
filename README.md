@@ -34,22 +34,21 @@ For almost 20 years since ECMAScript was born nothing really happened with the l
 
 ## Recommended resources
 
-https://en.wikipedia.org/wiki/JavaScript
-
-https://en.wikipedia.org/wiki/ECMAScript
+- https://en.wikipedia.org/wiki/JavaScript
+- https://en.wikipedia.org/wiki/ECMAScript
 
 ### video series
 
-http://www.letscodejavascript.com/v3/comments/lessons_learned/12
-https://egghead.io/
+- http://www.letscodejavascript.com/v3/comments/lessons_learned/12
+- https://egghead.io/
 
 ### books
 
-http://eloquentjavascript.net/
-http://speakingjs.com/
-https://github.com/getify/You-Dont-Know-JS
+- http://eloquentjavascript.net/
+- http://speakingjs.com/
+- https://github.com/getify/You-Dont-Know-JS
 
 ### blogs
 
-http://www.2ality.com/
-https://ponyfoo.com/
+- http://www.2ality.com/
+- https://ponyfoo.com/
