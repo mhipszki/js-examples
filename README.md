@@ -4,7 +4,7 @@ This repo contains JavaScript examples to cover a few important topics of the la
 
 The examples can be run by executing the IFEE functions e.g.
 
-```
+```JavaScript
 // object
 (function showObj() {
 	console.log('--- object');
